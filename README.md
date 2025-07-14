@@ -23,3 +23,6 @@ pip install schedule
 python reminder.py
 ```
 
+## Author
+Tuhin Adhikari 
+
