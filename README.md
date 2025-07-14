@@ -11,7 +11,13 @@ This is a simple Python script that reminds you to complete a task at your chose
 - Uses `plyer` for cross-platform notifications
 
 ## Requirements
-Install the required libraries with :
+1. Modules :
+- `schedule`
+- `datetime`
+- `time`
+- `plyer`
+
+2. Install the required libraries with :
 
 ```bash
 pip install plyer
